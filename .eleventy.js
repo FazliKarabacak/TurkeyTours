@@ -12,6 +12,7 @@ module.exports = function (eleventyConfig) {
   });
 
   return {
+    pathPrefix: "/TurkeyTours/",
     dir: {
       input: "src",
       includes: "_includes",
