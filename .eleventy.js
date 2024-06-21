@@ -7,6 +7,10 @@ module.exports = function (eleventyConfig) {
     return collectionApi.getFilteredByGlob("src/blogs/*.md");
   });
 
+  eleventyConfig.addShortcode("baseurl", function () {
+    return "/TurkeyTours";
+  });
+
   return {
     dir: {
       input: "src",
