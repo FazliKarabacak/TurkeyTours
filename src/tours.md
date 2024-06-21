@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tours
+permalink: /TurkeyTours/tours/
 ---
 
 # Our Tours

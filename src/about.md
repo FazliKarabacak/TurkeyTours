@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About Us
+permalink: /TurkeyTours/about/
 ---
 
 # About Us
